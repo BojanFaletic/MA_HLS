@@ -1,4 +1,4 @@
-## Simple moving average filter in GLS
+## Simple moving average filter in Xilinx HLS
 
 ![Wave](wave.png)
 
