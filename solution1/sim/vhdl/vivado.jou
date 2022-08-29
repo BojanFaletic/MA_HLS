@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Aug 29 01:46:13 2022
+# Process ID: 20048
+# Current directory: C:/Users/bojan/Desktop/git_personal/MA_HLS/solution1/sim/vhdl
+# Command line: vivado.exe -source open_wave.tcl
+# Log file: C:/Users/bojan/Desktop/git_personal/MA_HLS/solution1/sim/vhdl/vivado.log
+# Journal file: C:/Users/bojan/Desktop/git_personal/MA_HLS/solution1/sim/vhdl\vivado.jou
+#-----------------------------------------------------------
+start_gui
+source open_wave.tcl
+open_wave_config C:/Users/bojan/Desktop/git_personal/MA_HLS/solution1/sim/vhdl/ma.wcfg
+close_sim

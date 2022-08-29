@@ -1,0 +1,24 @@
+
+
+================================================================
+== Synthesis Summary Report of 'ma'
+================================================================
++ General Information: 
+    * Date:           Mon Aug 29 02:00:09 2022
+    * Version:        2020.2 (Build 3064766 on Wed Nov 18 09:12:45 MST 2020)
+    * Project:        MA_HLS
+    * Solution:       solution1 (Vivado IP Flow Target)
+    * Product family: artix7
+    * Target device:  xc7a200t-fbg676-2
+    
+
++ Performance & Resource Estimates: 
+    
+    PS: '+' for module; 'o' for loop; '*' for dataflow
+    +--------+------+-------+---------+--------+----------+---------+------+----------+------+----+-----------+-----------+-----+
+    | Modules| Issue|       | Latency | Latency| Iteration|         | Trip |          |      |    |           |           |     |
+    | & Loops| Type | Slack | (cycles)|  (ns)  |  Latency | Interval| Count| Pipelined| BRAM | DSP|     FF    |    LUT    | URAM|
+    +--------+------+-------+---------+--------+----------+---------+------+----------+------+----+-----------+-----------+-----+
+    |+ ma    |     -|  -0.08|        1|  10.000|         -|        1|     -|       yes|     -|   -|  493 (~0%)|  185 (~0%)|    -|
+    +--------+------+-------+---------+--------+----------+---------+------+----------+------+----+-----------+-----------+-----+
+

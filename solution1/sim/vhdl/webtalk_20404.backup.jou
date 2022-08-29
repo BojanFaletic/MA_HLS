@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Aug 29 01:45:48 2022
+# Process ID: 20404
+# Current directory: C:/Users/bojan/Desktop/git_personal/MA_HLS/solution1/sim/vhdl
+# Command line: wbtcv.exe -mode batch -source C:/Users/bojan/Desktop/git_personal/MA_HLS/solution1/sim/vhdl/xsim.dir/ma/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/bojan/Desktop/git_personal/MA_HLS/solution1/sim/vhdl/webtalk.log
+# Journal file: C:/Users/bojan/Desktop/git_personal/MA_HLS/solution1/sim/vhdl\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/bojan/Desktop/git_personal/MA_HLS/solution1/sim/vhdl/xsim.dir/ma/webtalk/xsim_webtalk.tcl -notrace

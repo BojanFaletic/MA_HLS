@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="ma.hpp" path="C:\Users\bojan\Desktop\git_personal\MA_HLS\ma.hpp"/>
+    <originFiles name="ma.cpp" path="C:\Users\bojan\Desktop\git_personal\MA_HLS\ma.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="main.cpp" path="C:\Users\bojan\Desktop\git_personal\MA_HLS\main.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
