@@ -16,5 +16,4 @@ using hls_int = ap_fixed<BIT_LEN, BIT_NUM, AP_RND>;
 #define BIT_LEN_ACC (BIT_LEN + BIT_NUM_ACC)
 using hls_acc_int = ap_fixed<BIT_LEN_ACC, BIT_NUM_ACC, AP_RND>;
 
-
 hls_int ma(hls_int sample);
